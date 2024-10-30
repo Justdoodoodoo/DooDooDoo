@@ -21,4 +21,4 @@ To run this project, you'll need:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Justdoodoodoo/DooDooDoo.git
-   cd doo-doo-doo-twitter-bot
+   cd DooDooDoo
