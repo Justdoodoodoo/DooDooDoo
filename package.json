@@ -1,0 +1,13 @@
+{
+    "name": "just-a-twitter-bot",
+    "version": "1.0.0",
+    "description": "A simple Twitter bot using Node.js",
+    "main": "src/bot.js",
+    "scripts": {
+        "start": "node src/bot.js"
+    },
+    "dependencies": {
+        "dotenv": "^16.4.5",
+        "twit": "^2.2.11"
+    }
+}
